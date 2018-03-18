@@ -58,6 +58,10 @@
 
 [더 나은 코딩을 위한 CSS 테크닉 28가지](https://nanati.me/css-code-skill/) - nanati 님
 
+[Front-end Guide](https://blog.naver.com/magnking/221149133410) - AIdev 님
+
+[ES6 문법 정리](http://itstory.tk/entry/JavaScript-ES6-%EB%AC%B8%EB%B2%95-%EC%A0%95%EB%A6%AC) - kkd927 님
+
 ### Vue.js
 
 [Vue.js 공식 홈페이지](https://kr.vuejs.org/)
@@ -86,7 +90,7 @@
 
 [Node.js 란?](https://perfectacle.github.io/2017/06/18/what-is-node-js/) - exobud 님
 
-## 기타
+## 개발 기타
 
 [[번역]다국어 상황을 고려한 UI 디자인](https://brunch.co.kr/@suyoung/13) - 강수영 님
 
@@ -97,6 +101,10 @@
 [쉽게 풀어쓴 딥러닝의 거의 모든 것](http://t-robotics.blogspot.kr/2015/05/deep-learning.html?m=1#.WE9bZ7KLSiM) - Terry TaeWoong Um 님
 
 [마크다운 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601) - ihoneymon 님
+
+[퀵,버블,선택,합병,삽입 JavaScript 구현](http://boycoding.tistory.com/74) - 소년코딩 님
+
+[OKKY 미니세미나 <비전공 학원출신 SI개발자, 유명스타트업 들어간.ssul> 참석 후기](https://okky.kr/article/425700) - 창천향로 님
 
 ## 스타트업
 
@@ -109,7 +117,7 @@
 
 ## 자기계발
 
-[일하면서 자기계발하는 8가지 방법](https://brunch.co.kr/@annachoi/33) - Anna 님
+[일하면서 자기계발하는 8드지 방법](https://brunch.co.kr/@annachoi/33) - Anna 님
 
 [성공하는 사람들의 12가지 주말습관](http://blog.naver.com/justalive/220915108419) - 그녀생각 님
 
