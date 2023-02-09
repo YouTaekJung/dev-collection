@@ -1,9 +1,3 @@
-# 개발 좋은 글 모음
-
-보시는 분들에게 도움이 되었으면 좋겠습니다.
-
-혹시 같이 공유하고 싶은 내용이 있다! 하시면 주소와 출처를 적어놓은 방법처럼 작성해 풀리퀘스트 날려주시면 읽어보고 머지하겠습니다
-
 ## 프로그래밍
 
 [Developer-roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md) - kamranahmedse 님
